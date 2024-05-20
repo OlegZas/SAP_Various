@@ -1,6 +1,8 @@
 <h1>Creating a Secondary Measurement Rule</h1>
 <h3>1. The secondary measurement rule will aggregate the primary measurement for the current year </h3>
 <h4>a.	Given that the primary measurement rule was already created </h4>
+
+***
 <h3>2. Manage Plans > Plan Data > Rules Wizard </h3>
 
 ![image](https://github.com/OlegZas/SAP_Various/assets/115661636/8b0fdc41-e757-4f86-b7f9-f85719f179f6)
